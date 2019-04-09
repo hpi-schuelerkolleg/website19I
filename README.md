@@ -22,3 +22,7 @@ Website of group green I of the HPI schuelerkolleg
 * Führt Änderungen an der Datei `index.html` durch
 
 ![clonen](https://i.imgur.com/d1IJeOS.png)
+
+* Mit `git status` erfahrt ihr den Status eures Repositories
+
+![clonen](https://i.imgur.com/Vi62Y9N.png)
