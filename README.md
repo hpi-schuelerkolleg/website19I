@@ -11,3 +11,7 @@ Website of group green I of the HPI schuelerkolleg
 ![clonen](1.PNG)
 
 ![clonen](https://i.imgur.com/zw5cjUo.png)
+
+* Wechselt in den lokalen Ordner, in den das Projekt geclont wurde
+
+![clonen](https://i.imgur.com/Lb21DTC.png)
