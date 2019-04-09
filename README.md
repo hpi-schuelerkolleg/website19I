@@ -26,3 +26,7 @@ Website of group green I of the HPI schuelerkolleg
 * Mit `git status` erfahrt ihr den Status eures Repositories
 
 ![clonen](https://i.imgur.com/Vi62Y9N.png)
+
+* `git add` fügt Änderungen einem Commit hinzu
+
+![clonen](https://i.imgur.com/LmSIwuR.png)
