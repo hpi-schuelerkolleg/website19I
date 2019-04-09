@@ -16,6 +16,6 @@ Website of group green I of the HPI schuelerkolleg
 
 ![clonen](https://i.imgur.com/Lb21DTC.png)
 
-* Führt Änderungen durch
+* Führt Änderungen an der Datei `index.html` durch
 
 ![clonen](https://i.imgur.com/d1IJeOS.png)
