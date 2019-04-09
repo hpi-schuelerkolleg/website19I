@@ -9,3 +9,5 @@ Website of group green I of the HPI schuelerkolleg
 * Legt eine lokale Kopie des Repository auf eurem Rechner an ("clonen")
 
 ![clonen](1.PNG)
+
+![clonen](https://i.imgur.com/zw5cjUo.png)
