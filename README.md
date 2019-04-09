@@ -30,3 +30,8 @@ Website of group green I of the HPI schuelerkolleg
 * `git add` fügt Änderungen einem Commit hinzu
 
 ![clonen](https://i.imgur.com/LmSIwuR.png)
+
+* `git commit` schnürt einen Commit. Ein Editor Fenster geht auf, in das ihr eure Commit Message schreibt. Speichert die Datei.
+
+![clonen](https://i.imgur.com/XRPI7bk.png)
+
